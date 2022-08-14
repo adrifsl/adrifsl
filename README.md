@@ -4,6 +4,14 @@
 Perkenalkan nama saya **Adri Faisal**.\
 Saya seorang Mahasiswa di [UNUGHA](https://unugha.ac.id/)
 
+## GitHub Static
+<p align="left">
+<a href="https://github.com/adrifsl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrifsl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrifsl&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **adrifsl/adrifsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
