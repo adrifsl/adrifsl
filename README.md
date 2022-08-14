@@ -1,4 +1,8 @@
 ### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Adri Faisal**.\
+Saya seorang Mahasiswa di [UNUGHA](https://unugha.ac.id/)
 
 <!--
 **adrifsl/adrifsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
